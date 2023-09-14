@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+
+.money {
+    padding: 5px;
+}
